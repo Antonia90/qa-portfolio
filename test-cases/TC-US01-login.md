@@ -1,11 +1,11 @@
-# TC -US01 -- Casos de prueba: Inicio de sesión
+# TC -US01 - Casos de prueba: Inicio de sesión
 
 Historia de usuario: [US-01](../user-stories/US-01-login.md)
 Jira ticket: QPLA-1
 
 ---
 
-## TC-US01-001 -- Login exitoso con credenciales válidas
+## TC-US01-001 - Login exitoso con credenciales válidas
 
 **Tipo:** Happy path
 **Prioridad:** High
@@ -90,7 +90,7 @@ Jira ticket: QPLA-1
 
 ---
 
-## TC-US01-005 -- Bloqueo tras 3 intentos fallidos
+## TC-US01-005 - Bloqueo tras 3 intentos fallidos
 
 **Tipo:** Edge case
 **Prioridad:** High
@@ -115,7 +115,7 @@ Jira ticket: QPLA-1
 
 ---
 
-## TC-US001-006 -- Login con email en mayúsculas
+## TC-US001-006 - Login con email en mayúsculas
 
 **Tipo:** Edge case
 **Prioridad:** Low
