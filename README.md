@@ -2,20 +2,6 @@
 
 Workspace de testing manual cubriendo el módulo de autenticación de usuarios.
 
-## Estructura del proyecto
-
-\```
-qa-portfolio/
-├── user-stories/          # Historias de usuario con criterios de aceptación
-│   ├── US-01-login.md
-│   ├── US-02-registro.md
-│   └── US-03-recuperar-password.md
-└── test-cases/            # Casos de prueba por historia
-    ├── TC-US01-login.md
-    ├── TC-US02-registro.md
-    └── TC-US03-recuperar-password.md
-\```
-
 ## Historias cubiertas
 
 | ID | Historia | Casos de prueba | Tipos cubiertos |
